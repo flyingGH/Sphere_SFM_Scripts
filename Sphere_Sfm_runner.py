@@ -8,9 +8,9 @@ from email.mime.text import MIMEText
 import socket
 import glob
 
-SENDER = "anirudh.kakarlapudi@constructn.ai"
-RECIPIENTS = [SENDER, "akileswar.paidi@constructn.ai","pradeep.borugadda@constructn.ai"]
-PASSWORD = "sycuemlryplczihb"
+SENDER = "akileswar.paidi@constructn.ai"
+RECIPIENTS = [SENDER, "anirudh.kakarlapudi@constructn.ai","pradeep.borugadda@constructn.ai"]
+PASSWORD = "wkto ivvo iepi xkjy"
 
 def get_server_name():
     server_name = socket.gethostname()
