@@ -9,7 +9,7 @@ import socket
 import glob
 
 SENDER = "akileswar.paidi@constructn.ai"
-RECIPIENTS = [SENDER, "anirudh.kakarlapudi@constructn.ai"]
+RECIPIENTS = [SENDER, "anirudh.kakarlapudi@constructn.ai","pradeep.borugadda@constructn.ai"]
 PASSWORD = "wkto ivvo iepi xkjy"
 
 def get_server_name():
